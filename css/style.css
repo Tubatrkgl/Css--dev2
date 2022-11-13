@@ -1,0 +1,96 @@
+#baslangıc {
+
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+
+}
+
+.secenek {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #EEEEEE;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+#search {
+    width: 300px;
+    height: 22px;
+}
+
+.img {
+    width: 350px;
+    height: 113px;
+
+
+}
+
+.kutu1 {
+    width: 624px;
+    height: 90px;
+    background-color: rgb(126, 229, 218);
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.kutu2 {
+    width: 480px;
+    height: 80px;
+    background-color: rgb(112, 204, 194);
+    justify-content: center;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    padding-top: 10px;
+
+    
+
+
+}
+
+.kutu3 {
+    width: 660px;
+    height: 90px;
+    background-color: rgb(98, 179, 170);
+    justify-content: center;
+    margin: 0px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    padding: px;
+   
+
+}
+
+#box {
+    display: flex;
+    justify-content: center;
+}
+
+.text-box {
+    width: 80px;
+}
+
+.paragraf {
+    margin: auto;
+}
+
+#cerceve {
+
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 5px;
+}
+.son{
+    text-align: center;
+}
